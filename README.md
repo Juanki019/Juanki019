@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Juan Carlos
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-carlos-s%C3%A1nchez-garcia-68a4b3250/)](https://www.linkedin.com/in/juan-carlos-s%C3%A1nchez-garcia-68a4b3250/)
 
 <!--
 **Juanki019/Juanki019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
