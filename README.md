@@ -6,7 +6,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanki019&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 https://github-readme-stats.vercel.app/api?username=juanki019&show_icons=true
